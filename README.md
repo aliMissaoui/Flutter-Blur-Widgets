@@ -1,6 +1,12 @@
 # blur_widgets
 
-A new Flutter project.
+Flutter - Blur Widgets - BackdropFilter Widget.
+
+![thumbnail](https://user-images.githubusercontent.com/68671238/138001527-49c6490a-f991-4d2b-ad0b-c6971b143d6f.png)
+
+* *Screenshot:*
+
+![BackdropFilter](https://user-images.githubusercontent.com/68671238/138001568-0dbe067c-3739-4274-8c1f-938008201b99.png)
 
 ## Getting Started
 
